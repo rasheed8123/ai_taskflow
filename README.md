@@ -2,7 +2,12 @@
 
 TaskFlow is a modern, AI-powered task management application that uses natural language processing to help you organize your tasks efficiently. Built with React, TypeScript, and OpenAI integration, it provides a beautiful and intuitive interface for managing your daily tasks.
 
-![TaskFlow Screenshot](screenshot.png)
+![TaskFlow Screenshot]
+
+<img width="951" alt="image" src="https://github.com/user-attachments/assets/d12077a7-ef3c-4649-8252-7b9e6ffe5b7d" />
+<img width="951" alt="image" src="https://github.com/user-attachments/assets/29fad95d-68b1-47b0-979a-1627854e6555" />
+
+
 
 ## 🌟 Features
 
